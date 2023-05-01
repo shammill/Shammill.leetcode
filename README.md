@@ -1,2 +1,2 @@
 # Shammill.leetcode
-Collection of completed leetcode challenges.
+My collection of completed leetcode challenges, timed to a maximum of 15 minutes each.

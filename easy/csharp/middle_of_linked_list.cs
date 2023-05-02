@@ -18,8 +18,9 @@ public class Solution
     public ListNode MiddleNode(ListNode head)
     {
         int count = head.Count();
+        int middleNodeIndex = count / 2;
         ListNode result = head;
-        for (int i = 1; i <= count; i++)
+        for (int i = 1; i <= middleNodeIndex; i++)
         {
             result = result.next;
         }
